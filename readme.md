@@ -4,8 +4,8 @@
 # Created By AT Dilshan
 
 # Follow me on
-Github: www.github.com/atdilshan
-LinkedIn: www.linkedin/in/atdilshan
-Medium: www.atdilshan.medium.com
-Instagram: www.instagram.com/atdilshan
-FaceBook: www.facebook.com/atd.dilshan
+Github: https://www.github.com/atdilshan<br/>
+LinkedIn: https://www.linkedin.com/in/atdilshan<br/>
+Medium: https://www.atdilshan.medium.com<br/>
+Instagram: https://www.instagram.com/atdilshan<br/>
+FaceBook: https://www.facebook.com/atd.dilshan
