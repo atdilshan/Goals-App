@@ -1,7 +1,7 @@
 {
-  "name": "mern-tutorial",
+  "name": "goals-app",
   "version": "1.0.0",
-  "description": "Goalsetter app for youtube tutorial",
+  "description": "Goals App created by me for learn integration in MERN stack",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
