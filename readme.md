@@ -1,7 +1,7 @@
 # Goals App
-**This app created by me for learn integration in MERN stack **
+### This app created by me for learn integration in MERN stack ###
 
-#Created By AT Dilshan
+# Created By AT Dilshan
 
 # Follow me on
 Github: www.github.com/atdilshan
